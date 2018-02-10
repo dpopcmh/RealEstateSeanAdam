@@ -1,0 +1,3 @@
+# RealEstateSeanAdam
+
+ok getting motivated
