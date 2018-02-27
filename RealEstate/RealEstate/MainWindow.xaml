@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:RealEstate"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <Grid Background="#FF28804C">
    <Button x:Name="button" Content="Find a new home" HorizontalAlignment="Left" Margin="263,132,0,0" VerticalAlignment="Top" Width="119" Click="button_Click" RenderTransformOrigin="0.501,-3.271"/>
         <TextBox HorizontalAlignment="Left" Height="19" Margin="143,133,0,0" TextWrapping="Wrap" Text="Address, State, Zip " VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.171,0.376"/>
         <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
