@@ -24,8 +24,7 @@ namespace RealEstate
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
+            private void AdmnSubmit_Click(object sender, RoutedEventArgs e)
         {
             //styuff!
         }
