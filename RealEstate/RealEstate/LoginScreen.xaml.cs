@@ -25,9 +25,9 @@ namespace RealEstate
             InitializeComponent();
         }
 
-         void LoginScreen.BtnSubmit_Click(object sender, RoutedEventArgs e)
+       private void BtnSubmit_Click(object sender, RoutedEventArgs e)
         {
-            SqlConnection sqlCon = new SqlConnection(@"");
+            SqlConnection sqlCon = new SqlConnection(@"Data Source=localhost\");
         }
     }
 }
